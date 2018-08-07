@@ -21,4 +21,9 @@ function scuberGreetingForFeet (feet) {
   }
     
     
-function switchOnCharmFromTip()
+function switchOnCharmFromTip(tip) {
+  switch 
+  
+  
+  
+}
