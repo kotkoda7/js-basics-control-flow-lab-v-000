@@ -11,4 +11,7 @@ function scuberGreetingForFeet (feet) {
 }
 }
   
-  function 
+  function ternaryCheckCity(city) {
+  if (city === 'NYC')
+  }
+  return 
