@@ -22,7 +22,7 @@ function scuberGreetingForFeet (feet) {
     
     
 function switchOnCharmFromTip(tip) {
-  switch (tip = 'generous') {
+  switch (tip) {
   return "Thank you so much.";
   }
   
