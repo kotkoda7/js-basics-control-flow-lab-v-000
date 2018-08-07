@@ -18,6 +18,7 @@ function scuberGreetingForFeet (feet) {
 } else {
   return 'No go.';
 }
-
   }
     
+    
+function switchOnCharmFromTip()
